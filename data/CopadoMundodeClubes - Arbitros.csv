@@ -1,0 +1,118 @@
+id_arbitro,nome,pais,funcao
+ARB1,Omar Al Ali,Emirados Arabes Unidos,Arbitro
+ARB2,Ramon Abatti ,Brasil,Arbitro
+ARB3,Ivan Barton,El Salvador,Arbitro
+ARB4,Dahane Beida,Mauritania,Arbitro
+ARB5,Juan Gabriel Benitez,Paraguai,Arbitro
+ARB6,Espen Eskas,Noruega,Arbitro
+ARB7,Alireza Faghani,Australia,Arbitro
+ARB8,Salman Falahi,Catar,Arbitro
+ARB9,Yael Falcon Perez,Argentina,Arbitro
+ARB10,Drew Fischer,Canada,Arbitro
+ARB11,Cristian Garay,Chile,Arbitro
+ARB12,Mustapha Ghorbal,Argelia,Arbitro
+ARB13,Mutaz Ibrahim,Libia,Arbitro
+ARB14,Campbell-Kirk Kawana-Waugh,Nova Zelandia,Arbitro
+ARB15,Istvan Kovacs,Romenia,Arbitro
+ARB16,Francois Letexier,Franca,Arbitro
+ARB17,Ning Ma,China,Arbitro
+ARB18,Danny Makkelie,Holanda,Arbitro
+ARB19,Szymon Marciniak,Polonia,Arbitro
+ARB20,Said Martinez,Honduras,Arbitro
+ARB21,Jean Jacques,Congo,Arbitro
+ARB22,Glenn Nyyberg,Suecia,Arbitro
+ARB23,Michael Oliver,Inglaterra,Arbitro
+ARB24,Tori Penso,USA,Arbitro
+ARB25,Cesar Ramos,Mexico,Arbitro
+ARB26,Wilton Sampaio,Brasil,Arbitro
+ARB27,Issa Sy,Senegal,Arbitro
+ARB28,Ilgiz Tantashez,Uzbequistao,Arbitro
+ARB29,Anthony Taylor,Inglaterra,Arbitro
+ARB30,Gustavo Tejera,Uruguai,Arbitro
+ARB31,Facundo Tello,Argentina,Arbitro
+ARB32,Clement Turpin,Franca,Arbitro
+ARB33,Jesus Valenzuela,Venezuela,Arbitro
+ARB34,Slavko Vincic,Eslovenia,Arbitro
+ARB35,Felix Zwayer ,Alemanha,Arbitro
+ASS1,Ramzan Al Naemi,Catar,Assistentes
+ASS2,Majid Al Sahmmari,Catar,Assistentes
+ASS3,Rafael Alves,Brasil,Assistentes
+ASS4,Lyes Arfa,Canada,Assistentes
+ASS5,Nouha Bangoura,Senegal,Assistentes
+ASS6,Micheal Barwegen,Canada,Assistentes
+ASS7,Isaak Bashevkin,Noruega,Assistentes
+ASS8,Ashley Beecham,Australia,Assistentes
+ASS9,Mahbod Beigi,Suecia,Assistentes
+ASS10,Juan Pablo Belatti,Argentina,Assistentes
+ASS11,Gary Beswick,Inglaterra,Assistentes
+ASS12,Marco Bisguerra,Mexico,Assistentes
+ASS13,Bruno Boschilia,Brasil,Assistentes
+ASS14,Stuart Burt,Inglaterra,Assistentes
+ASS15,Djibril Camara,Senegal,Assistentes
+ASS16,Eduardo Cardozo,Paraguai,Assistentes
+ASS17,Gabriel Chade,Argentina,Assistentes
+ASS18,Nicolas Danos,Franca,Assistentes
+ASS19,Jan De Vries,Holanda,Assistentes
+ASS20,Maximiliano Del Yesso,Argentina,Assistentes
+ASS21,Christian Dietz,Alemanha,Assistentes
+ASS22,Jan Erik Engan,Noruega,Assistentes
+ASS23,Timur Gaynullin,Uzbequistao,Assistentes
+ASS24,Mokrane Gourari,Argelia,Assistentes
+ASS25,Robert Kempter,Alemanha,Assistentes
+ASS26,Tomaz Klancnik,Eslovenia,Assistentes
+ASS27,Andraz Kovacic,Eslovenia,Assistentes
+ASS28,Adam Kupsik,Polonia,Assistentes
+ASS29,Tomasz Listkiewicz,Polonia,Assistentes
+ASS30,Walter Lopez ,Honduras,Assistentes
+ASS31,James Mainwaring,Inglaterra,Assistentes
+ASS32,Danilo Manis,Brasil,Assistentes
+ASS33,Mihai Marius Marica,Romenia,Assistentes
+ASS34,Brooke Mayo,USA,Assistentes
+ASS35,David Moran,Eslovaquia,Assistentes
+ASS36,Tulio Moreno,Venezuela,Assistentes
+ASS37,Alberto Morin,Mexico,Assistentes
+ASS38,Cyril Mugnier,Franca,Assistentes
+ASS39,Kathryn Nesbitt,USA,Assistentes
+ASS40,Adam Nunn,Inglaterra,Assistentes
+ASS41,Benjamin Christian Pages,Franca,Assistentes
+ASS42,Bruno Pires,Brasil,Assistentes
+ASS43,Antonio Pupiro,Nicaragua,Assistentes
+ASS44,Mehdi Rahmouni,Franca,Assistentes
+ASS45,Christian Ramirez,Honduras,Assistentes
+ASS46,Jose Retamal,Chile,Assistentes
+ASS47,Miguell Rocha,Chile,Assistentes
+ASS48,Facundo Rodriguez,Argentina,Assistentes
+ASS49,Milciades Saldivar,Paraguai,Assistentes
+ASS50,Jerson Santos,Angola,Assistentes
+ASS51,Anton Shchetinin,Australia,Assistentes
+ASS52,Andreas Soderkvist,Suecia,Assistentes
+ASS53,Hessel Steegstra,Holanda,Assistentes
+ASS54,Andrey Tsapenko,Uzbequistao,Assistentes
+ASS55,Ferencz Tunyogi,Romenia,Assistentes
+ASS56,Jorge Urrego,Venezuela,Assistentes
+ASS57,Stephen Yiembe,Quenia,Assistentes
+ASS58,Abbes Akram Zerhouni,Argelia,Assistentes
+VAR1,Khamis Al-Marri,Catar,VAR
+VAR2,Mahmoud Ashour,Egito,VAR
+VAR3,Ivan Bebek,Croacia,VAR
+VAR4,Jerome Brisard,Franca,VAR
+VAR5,Bastian Dankert,Alemanha,VAR
+VAR6,Carlos Del Cerro Grande,Espanha,VAR
+VAR7,Marco Di Bello,Italia,VAR
+VAR8,Rob Dieperink,Holanda,VAR
+VAR9,Hamza El Fariq ,Marrocos,VAR
+VAR10,Shaun Evans,Australia,VAR
+VAR11,Nicolas Gallo,Colombia,VAR
+VAR12,Leodan Gonzales,Uruguai,VAR
+VAR13,Tatiana Guzman,Nicaragua,VAR
+VAR14,Alejandro Hernandez,Espanha,VAR
+VAR15,Tomasz Kwiatkowski,Polonia,VAR
+VAR16,Juan Lara,Chile,VAR
+VAR17,Hernan Carlos Mastrangelo,Argentina,VAR
+VAR18,Fu Ming,China,VAR
+VAR19,Erick Miranda,Mexico,VAR
+VAR20,Obaid Khadim Mohammed,Emirados Arabes Unidos,VAR
+VAR21,Guillermo Pacheco,Mexico,VAR
+VAR22,Juan Soto,Venezuela,VAR
+VAR23,Bram Van Driessche,Belgica,VAR
+VAR24,Armando Villareal,USA,VAR

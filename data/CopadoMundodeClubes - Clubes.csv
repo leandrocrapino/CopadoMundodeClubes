@@ -1,0 +1,33 @@
+id_clube,nome_clube,sigla_clube,pais,confederacao,ranking_fifa,valor_elenco(mi de euros),continente,grupo
+1,Al Ahly,AHL,Egito,CAF,16,"47,95",Africa,A
+2,Inter Miami,MIA,EUA,Concacaf,23,"66,18",America do Norte,A
+3,Palmeiras,SEP,Brasil,Conmebol,12,"252,55",America do Sul,A
+4,Porto,POR,Portugal,UEFA,11,"345,9",Europa,A
+5,Atletico de Madrid,ATM,Espanha,UEFA,7,"508,5",Europa,B
+6,Botafogo,BOT,Brasil,Conmebol,17,"163,2",America do Sul,B
+7,Paris Saint-Germain,PSG,Franca,UEFA,1,1060,Europa,B
+8,Seattle Sounders,SEA,EUA,Concacaf,24,"51,75",America do Norte,B
+9,Auckland City,AKL,Nova Zelandia,OFC,32,"4,58",Oceania,C
+10,Bayern de Munique,BAY,Alemanha,UEFA,3,"903,5",Europa,C
+11,Benfica,SLB,Portugal,UEFA,9,"363,5",Europa,C
+12,Boca Juniors,BOC,Argentina,Conmebol,21,"86,43",America do Sul,C
+13,Chelsea ,CHE,Inglaterra,UEFA,6,1030,Europa,D
+14,Esperance,EST,Tunisia,CAF,27,"20,35",Africa,D
+15,Flamengo,FLA,Brasil,Conmebol,14,"221,35",America do Sul,D
+16,Los Angeles FC,LAF,EUA,Concacaf,20,"45,98",America do Norte,D
+17,Inter de Milao,INT,Italia,UEFA,4,"739,8",Europa,E
+18,Monterrey,CFM,Mexico,Concacaf,19,"71,5",America do Norte,E
+19,River Plate,RIV,Argentina,Conmebol,15,"114,2",America do Sul,E
+20,Urawa Reds,URD,Japao,AFC,28,"19,85",Asia,E
+21,Borussia Dortmund,BVB,Alemanha,UEFA,8,"477,9",Europa,F
+22,Fluminense ,FLU,Brasil,Conmebol,25,"82,65",America do Sul,F
+23,Mamelodi Sundowns,MSU,Africa do Sul,CAF,22,"32,25",Africa,F
+24,Ulsan HD,UHD,Coreia do Sul,AFC,30,"13,18",Asia,F
+25,Al Ain,AIN,Emirados Arabes,AFC,31,"46,49",Asia,G 
+26,Juventus,JUV,Italia,UEFA,10,"631,7",Europa,G
+27,Manchester City,MCI,Inglaterra,UEFA,2,1310,Europa,G
+28,Wydad Casablanca,WAC,Marrocos,CAF,29,"18,29",Africa,G
+29,Al Hilal ,HIL,Arabia Saudita,AFC,13,"154,33",Asia,H
+30,Pachuca,PAC,Mexico,Concacaf,26,"55,95",America do Norte,H
+31,RB Salzburg,SAL,Austria,UEFA,18,"175,5",Europa,H
+32,Real Madrid,RMA,Espanha,UEFA,5,1330,Europa,H
